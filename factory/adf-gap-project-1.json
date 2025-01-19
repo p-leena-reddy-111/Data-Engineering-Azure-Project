@@ -1,0 +1,9 @@
+{
+	"name": "adf-gap-project-1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1464e97c-1413-4764-a284-bb9627baa2b6",
+		"tenantId": "d4963ce2-af94-4122-95a9-644e8b01624d"
+	}
+}
