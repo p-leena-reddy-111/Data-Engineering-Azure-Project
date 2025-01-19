@@ -1,0 +1,9 @@
+{
+	"name": "adf-sales-leena",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11b4f399-f685-4ffa-91e2-2ca93d032a8d",
+		"tenantId": "d4963ce2-af94-4122-95a9-644e8b01624d"
+	}
+}
